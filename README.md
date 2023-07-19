@@ -8,6 +8,8 @@ A dark mode userscript for PSHS KHub.
 3. Run the userscript (dont worry, there is no malware on it) and install the file.
 4. Enjoy!
 
+NOTE: The userscript apparently hates math. Go to [this video](https://youtu.be/NsKCpd5a09Q) for a quick fix for it. Thanks! 
+
 # Release Log
 
 (July 19, 2023) Beta Release 1:
