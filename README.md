@@ -8,6 +8,8 @@ A dark mode userscript for PSHS KHub.
 2. Go to the [userscript](https://github.com/JaSonic4PSHSMC/pshsdarkmode/blob/main/khubdarkmode.user.js), press RAW, and press install.
 3. Enjoy!
 
+A video version can be found [here](https://www.youtube.com/watch?v=YpNpWdUvdZA)
+
 NOTE: The userscript apparently hates math. Go to [this video](https://youtu.be/NsKCpd5a09Q) for a quick fix for it. Thanks!
 
 If there are any bugs, feel free to DM me on Discord (therealjasonic)
