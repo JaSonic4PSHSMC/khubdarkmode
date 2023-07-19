@@ -4,9 +4,10 @@ A dark mode userscript for PSHS KHub.
 # Installation Guide
 
 1. Install a userscript runner on your browser. Preferably you can use Tampermonkey (the one I use), with the installation for it located [here](https://www.tampermonkey.net/)
-2. Install the userscript onto your device by pressing the download button [here](https://github.com/JaSonic4PSHSMC/pshsdarkmode/blob/main/khubdarkmode.user.js).
-3. Run the userscript (dont worry, there is no malware on it) and install the file.
-4. Enjoy!
+2. Create a new userscript in your userscript runner.
+3. Copy the code from [here](https://github.com/JaSonic4PSHSMC/pshsdarkmode/blob/main/khubdarkmode.user.js), and paste it into the file.
+4. Save the userscript.
+5. Enjoy!
 
 NOTE: The userscript apparently hates math. Go to [this video](https://youtu.be/NsKCpd5a09Q) for a quick fix for it. Thanks! 
 
