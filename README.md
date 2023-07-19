@@ -17,7 +17,7 @@ If there are any bugs, feel free to DM me on Discord (therealjasonic)
 
 # Release Log
 
-(July 19, 2023) Beta Release 1:
+0.1.1 (beta release 1) [July 19, 2023]:
 - The beginning
 
 
