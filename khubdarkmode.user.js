@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         KHub Dark Mode
 // @namespace    http://tampermonkey.net/
-// @version      BetaRelease1
+// @version      0.1.1
 // @description  A dark mode script for KHub.
 // @author       JaSonic / Twitter: @therealjasonic / Discord: therealjasonic
 // @match        *://*.pshs.edu.ph/*
