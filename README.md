@@ -14,3 +14,8 @@ NOTE: The userscript apparently hates math. Go to [this video](https://youtu.be/
 
 (July 19, 2023) Beta Release 1:
 - The beginning
+
+# Beta-testers
+
+Thank you to all of the beta-testers! From the bottom of my heart, I appreciate that you designated time to fine tune the script! ❤️❤️❤️
+- Lukas Castillo (MC - B2026)
