@@ -6,7 +6,7 @@
 // @author       JaSonic / Twitter: @therealjasonic / Discord: therealjasonic
 // @match        *://*.pshs.edu.ph/*
 // @grant        none
-// @downloadURL  https://github.com/JaSonic4PSHSMC/pshsdarkmode/raw/master/KHUB%20Darkest%20MOde%20😮😮😮.user.js
+// @downloadURL  https://github.com/JaSonic4PSHSMC/pshsdarkmode/blob/main/khubdarkmode.user.js
 // ==/UserScript==
 
 (function() {
