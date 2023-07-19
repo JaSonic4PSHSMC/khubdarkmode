@@ -32,23 +32,6 @@
         head.appendChild(s);
     }
 
-    function cssAsId2(selectors, p, st){
-        var head = document.getElementsByTagName('head')[0];
-        var s = document.createElement('style');
-        s.setAttribute('type', 'text/css');
-        var i;
-        if (s.styleSheet) {//thanks internet explorer :+1:
-            for(i = 0; i < selectors.length; i++) {
-                s.styleSheet.cssText = `${selectors[i]} {${p}: ${st};}`;
-            }
-        } else {
-            for(i = 0; i < selectors.length; i++) {
-                s.appendChild(document.createTextNode(`${selectors[i]} {${p}: ${st};}`));
-            }
-        }
-        head.appendChild(s);
-    }
-
     function basicCssAdd(css){
         var head = document.getElementsByTagName('head')[0];
         var s = document.createElement('style');
