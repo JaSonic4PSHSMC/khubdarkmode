@@ -6,6 +6,7 @@
 // @author       JaSonic / Twitter: @therealjasonic / Discord: therealjasonic
 // @match        *://*.pshs.edu.ph/*
 // @grant        none
+// @downloadURL  https://github.com/JaSonic4PSHSMC/pshsdarkmode/raw/master/KHUB%20Darkest%20MOde%20😮😮😮.user.js
 // ==/UserScript==
 
 (function() {
@@ -78,7 +79,7 @@
     let fontNames = "'FontAwesome', 'JetBrains Mono', monospace"
 
     document.head.innerHTML += `<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="${font}" rel="stylesheet">`;
-    document.getElementsByClassName('userpicture').forEach(pic => {pic.src = "https://i.imgflip.com/7gfjei.jpg?a468864"})
+    //document.getElementsByClassName('userpicture').forEach(pic => {pic.src = "https://i.imgflip.com/7gfjei.jpg?a468864"})
     //double slash previous line if you are NOT a boykisser
 
     console.log("Running script...")
