@@ -5,6 +5,7 @@
 // @description  A dark mode script for KHub.
 // @author       JaSonic / Twitter: @therealjasonic / Discord: therealjasonic
 // @match        *://*.pshs.edu.ph/*
+// @icon         https://github.com/JaSonic4PSHSMC/khubdarkmode/blob/main/logo.png?raw=true
 // @grant        none
 // ==/UserScript==
 
