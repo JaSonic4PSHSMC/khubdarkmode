@@ -1,4 +1,4 @@
-# pshsdarkmode
+# KHub Dark Mode
 A dark mode userscript for PSHS KHub.
 
 
