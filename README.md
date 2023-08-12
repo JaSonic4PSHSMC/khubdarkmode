@@ -25,7 +25,7 @@ If there are any bugs, feel free to DM me on Discord (therealjasonic)
 
 Credits to mushy0 *(MC2026)* on Discord for the logo!
 
-Thank you to all of the beta-testers! From the bottom of my heart, I appreciate that you designated time to fine tune the script! ❤️❤️❤️
+Thank you to all of the beta-testers! From the bottom of my heart, I appreciate that you designated time to test out the script! ❤️❤️❤️
 - Lukas Castillo *(MC2026)*
 - okiedokitos *(MC2026)*
 - gloomispaghetti *(CLC2026)*
