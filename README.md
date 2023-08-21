@@ -17,8 +17,12 @@ If there are any bugs, feel free to DM me on Discord (therealjasonic)
 
 # Release Log
 
+0.1.2 (beta release 2) [August 21, 2023]:
+- Fixed a bug where the script runs on all PSHS websites
+- General UI patches
+
 0.1.1 (beta release 1) [July 19, 2023]:
-- The beginning
+- The beginning!
 
 
 # Credits and Beta-testers
