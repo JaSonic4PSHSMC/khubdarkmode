@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         KHub Dark Mode
 // @namespace    http://tampermonkey.net/
-// @version      0.1.2
+// @version      0.2.2
 // @description  A dark mode script for KHub.
 // @author       JaSonic / Twitter: @therealjasonic / Discord: therealjasonic
 // @grant        none
@@ -96,8 +96,8 @@
     let fontName = "JetBrains Mono"
     //END OF CUSTOMIZABLE
 
-    document.head.innerHTML += `<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="${font}" rel="stylesheet">`;
-    document.getElementsByClassName('userpicture').forEach(pic => {pic.src = "https://i.kym-cdn.com/photos/images/newsfeed/002/548/073/ed4.gif"})
+    //document.head.innerHTML += `<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="${font}" rel="stylesheet">`;
+    //document.getElementsByClassName('userpicture').forEach(pic => {pic.src = "https://i.kym-cdn.com/photos/images/newsfeed/002/548/073/ed4.gif"})
 
     //REMOVE THE DOUBLE SLASHES FROM THE PREVIOUS LINE TO GET A COOL EASTER EGG!!!
 
@@ -176,7 +176,7 @@
     basicCssAdd(`.path-mod-quiz #mod_quiz_navblock .qnbutton {height: 30px; z-index: 2; padding: 0.25rem;}`)
     basicCssAdd(`.path-mod-quiz #mod_quiz_navblock .qnbutton.correct .trafficlight, .path-mod-quiz #mod_quiz_navblock .qnbutton.notanswered .trafficlight, .path-mod-quiz #mod_quiz_navblock .qnbutton.incorrect .trafficlight {border: transparent !important; border-radius: 0 !important; border-radius: 3px !important;}`)
 
-    //stuff 4 l8r
+    //stuff4l8r
     //background-image: url(https://cdn.jsdelivr.net/gh/JaSonic4PSHSMC/khubdarkmode@latest/img/checkmark.svg); background-size: 40%; background-position: 50% !important; background-repeat: no-repeat;
     //background-image: url(https://cdn.jsdelivr.net/gh/JaSonic4PSHSMC/khubdarkmode@latest/img/xmark.svg); background-size: 40%; background-position: 50% !important; background-repeat: no-repeat;
 
