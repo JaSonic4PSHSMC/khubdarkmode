@@ -12,6 +12,8 @@ A video version of this tutorial can be found [here](https://www.youtube.com/wat
 
 NOTE: The userscript apparently (sometimes) hates math. Go to [this video](https://youtu.be/NsKCpd5a09Q) for a quick fix for it. Thanks!
 
+NOTE^2: This guide is outdated as of August 21, 2023, although it still works.
+
 If there are any bugs, feel free to DM me on Discord (therealjasonic)
 
 
